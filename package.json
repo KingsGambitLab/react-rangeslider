@@ -1,5 +1,5 @@
 {
-  "name": "@appigram/react-rangeslider",
+  "name": "@KingsGambitLab/react-rangeslider",
   "version": "2.2.5",
   "description": "A lightweight react component that acts as a HTML5 input range slider polyfill",
   "main": "lib/index.js",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/appigram/react-rangeslider.git"
+    "url": "https://github.com/KingsGambitLab/react-rangeslider.git"
   },
   "files": [
     "lib",
@@ -46,18 +46,18 @@
     "slider"
   ],
   "author": {
-    "name": "Eugene Sysmanov",
-    "email": "appigram@gmail.com",
-    "url": "github.com/appigram"
+    "name": "KingsGambitLab",
+    "email": "sundeep@interviewbit.com",
+    "url": "github.com/KingsGambitLab"
   },
   "engines": {
     "node": ">=4"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/appigram/react-rangeslider/issues"
+    "url": "https://github.com/KingsGambitLab/react-rangeslider/issues"
   },
-  "homepage": "https://github.com/appigram/react-rangeslider#readme",
+  "homepage": "https://github.com/KingsGambitLab/react-rangeslider#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
@@ -115,10 +115,10 @@
     "webpack-hot-middleware": "^2.25.0"
   },
   "dependencies": {
-    "classnames": "^2.2.6",
     "resize-observer-polyfill": "^1.5.1"
   },
   "peerDependencies": {
+    "classnames": "^2.2.6",
     "react": "^16.13.1"
   },
   "jest": {
